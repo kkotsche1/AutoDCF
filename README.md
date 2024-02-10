@@ -50,7 +50,7 @@ Ensure Python and pandas are installed, along with obtaining an API key from Alp
 ### Setup Environment
 Install the required packages via pip:
 ```bash
-pip install pandas requests requests-cache alpha_vantage
+pip install pandas requests requests-cache alpha_vantage google-auth google-cloud-aiplatform
 ```
 
 ### API Key
